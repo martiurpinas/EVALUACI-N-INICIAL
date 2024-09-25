@@ -16,3 +16,6 @@ mediante un navegador.
 
 4. ¿Qué es una herramienta ofimática?
 
+Son aquellos programas o aplicaciones que nos permiten manipular informaticamente la información con la que se trabaja de forma habitual en una oficina. 
+
+5. Herramientas de Google:
