@@ -19,4 +19,5 @@ mediante un navegador.
 Son aquellos programas o aplicaciones que nos permiten manipular informaticamente la información con la que se trabaja de forma habitual en una oficina. 
 
 5. Herramientas de Google:5. Herramientas de Google:
+5. Herramientas de Google:
 
