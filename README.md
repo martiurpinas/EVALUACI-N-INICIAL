@@ -34,6 +34,7 @@ Define la estructura básica y 1 código, para la presentación de contenido de 
 
 CSS o Cascading Style Sheets o en castellano/español __Hojas de estilo cascada__, es un lenguaje de diseño grafico para poder definir y crear la presentación de un 
 documento estructurando escrito en un __lenguaje de marcado__.
+CSS o Cascading Style Sheets o en castellano/español __Hojas de estilo cascada__, es un lenguaje de diseño grafico para poder definir y crear la presentación de un documento estructurando escrito en un __lenguaje de marcado__.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
