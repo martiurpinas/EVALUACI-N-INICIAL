@@ -24,4 +24,5 @@ Son aquellos programas o aplicaciones que nos permiten manipular informaticament
 
 6. ¿Que es HTML?:
 
-El HTML es 
+El HTML (HyperText Markup Language), este estandard sirve de referencia del software qeu interactúa con la elebaración de __páginas web__ en sus diferentes versiones.
+Define la estructura básica y 1 código, para la presentación de contenido de una página web.
