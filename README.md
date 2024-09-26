@@ -18,6 +18,10 @@ mediante un navegador.
 
 Son aquellos programas o aplicaciones que nos permiten manipular informaticamente la información con la que se trabaja de forma habitual en una oficina. 
 
-5. Herramientas de Google:5. Herramientas de Google:
 5. Herramientas de Google:
 
+[image](https://github.com/user-attachments/assets/4305d0e7-7f64-4e72-bb13-0fe5e8e82ac1)
+
+6. ¿Que es HTML?:
+
+El HTML es 
