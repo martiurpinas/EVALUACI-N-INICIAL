@@ -25,4 +25,9 @@ Son aquellos programas o aplicaciones que nos permiten manipular informaticament
 6. ¿Que es HTML?:
 
 El HTML (HyperText Markup Language), este estandard sirve de referencia del software qeu interactúa con la elebaración de __páginas web__ en sus diferentes versiones.
-Define la estructura básica y 1 código, para la presentación de contenido de una página web.
+Define la estructura básica y 1 código, para la presentación de contenido de una página web.Define la estructura básica y 1 código, para la presentación de contenido de una página web.
+
+[Esquema HTML](https://github.com/user-attachments/assets/dac38bd5-5d65-41d4-ac2e-20dde30f4d39)
+
+7. ¿Que es CSS?:
+
