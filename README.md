@@ -20,12 +20,13 @@ Son aquellos programas o aplicaciones que nos permiten manipular informaticament
 
 5. Herramientas de Google:
 
+|---------|:---------:|
 |Aplicaciones|Visto|
 |Google Docs |![Google Docs imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
 |Google Slides|![Google Slides imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
 |Google Sheets|![Google Sheets imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
 |Google Calendar|![Google Calendar imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155124.png)|
-|Google Meet |![Google Meet imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
+|Google Meet|![Google Meet imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
 
 6. ¿Que es HTML?:
 
