@@ -1,5 +1,6 @@
 # EVALUACIÓN-INICIAL
 
+1.¿Qué es una página web?:
 
 Una pagina web es un documento del *web* (World Wide Web), normalmente en foramto HTML o XHTML y con q1 de archivo .hmtl o .htm 
 
