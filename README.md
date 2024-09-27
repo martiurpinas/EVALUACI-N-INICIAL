@@ -20,37 +20,19 @@ Son aquellos programas o aplicaciones que nos permiten manipular informaticament
 
 5. Herramientas de Google:
 
-[image](https://github.com/user-attachments/assets/4305d0e7-7f64-4e72-bb13-0fe5e8e82ac1)
-[Herramientas de Google](https://github.com/user-attachments/assets/4305d0e7-7f64-4e72-bb13-0fe5e8e82ac1)
-|Aplicaciones | Visto|
-|Google Docs | ! [Google Docs imagen] (https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
-|Google Slides | ! [Google Slides imagen] (https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
-|Google Sheets | ! [Google Sheets imagen] (https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
-|Google Calendar |! [Google Calendar imagen] (https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155124.png)|
-|Google Meet | ! [Google Meet imagen] (https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
 |Aplicaciones|Visto|
-|Google Docs |![Google Docs imagen] (https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
-|Google Slides |![Google Slides imagen] (https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
-|Google Sheets |![Google Sheets imagen] (https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
-|Google Calendar |![Google Calendar imagen] (https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155124.png)|
-|Google Meet |![Google Meet imagen] (https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
-=======
-[Herramientas de Google](https://github.com/Disco Local/repositorios-GitHub/2425-smx2_a0-repoejemplo/EVALUACI-N-INICIAL/Imagen1.jpg))
->>>>>>> f3aea228defa5a9091dd534fce9f5b519e6e96b8
->>>>>>> f3aea228defa5a9091dd534fce9f5b519e6e96b8
+|Google Docs |![Google Docs imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
+|Google Slides|![Google Slides imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
+|Google Sheets|![Google Sheets imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
+|Google Calendar|![Google Calendar imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155124.png)|
+|Google Meet |![Google Meet imagen](https://github.com/martiurpinas/EVALUACI-N-INICIAL/blob/main/Captura%20de%20pantalla%202024-09-27%20155136.png)|
 
 6. ¿Que es HTML?:
 
 El HTML (HyperText Markup Language), este estandard sirve de referencia del software qeu interactúa con la elebaración de __páginas web__ en sus diferentes versiones.
 Define la estructura básica y 1 código, para la presentación de contenido de una página web.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[Esquema HTML](https://github.com/user-attachments/assets/dac38bd5-5d65-41d4-ac2e-20dde30f4d39)
 [Esquema HTML](https://github.com/Disco Local/repositorios-GitHub/2425-smx2_a0-repoejemplo/EVALUACI-N-INICIAL/Imagen2.jpg)
-=======
-[Esquema HTML](https://github.com/Disco Local/repositorios-GitHub/2425-smx2_a0-repoejemplo/EVALUACI-N-INICIAL/Imagen1.jpg)
->>>>>>> f3aea228defa5a9091dd534fce9f5b519e6e96b8
 <<<<<<< HEAD
 
 7. ¿Que es CSS?:
@@ -61,6 +43,4 @@ escritas en __HTML__ o __XHTML__
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-=======
->>>>>>> f03a37a10fe030d89de6c7905abea21a860d48fd
 
