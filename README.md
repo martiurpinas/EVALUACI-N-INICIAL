@@ -37,6 +37,7 @@ Son aquellos programas o aplicaciones que nos permiten manipular informaticament
 =======
 [Herramientas de Google](https://github.com/Disco Local/repositorios-GitHub/2425-smx2_a0-repoejemplo/EVALUACI-N-INICIAL/Imagen1.jpg))
 >>>>>>> f3aea228defa5a9091dd534fce9f5b519e6e96b8
+>>>>>>> f3aea228defa5a9091dd534fce9f5b519e6e96b8
 
 6. ¿Que es HTML?:
 
@@ -44,8 +45,12 @@ El HTML (HyperText Markup Language), este estandard sirve de referencia del soft
 Define la estructura básica y 1 código, para la presentación de contenido de una página web.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Esquema HTML](https://github.com/user-attachments/assets/dac38bd5-5d65-41d4-ac2e-20dde30f4d39)
 [Esquema HTML](https://github.com/Disco Local/repositorios-GitHub/2425-smx2_a0-repoejemplo/EVALUACI-N-INICIAL/Imagen2.jpg)
+=======
+[Esquema HTML](https://github.com/Disco Local/repositorios-GitHub/2425-smx2_a0-repoejemplo/EVALUACI-N-INICIAL/Imagen1.jpg)
+>>>>>>> f3aea228defa5a9091dd534fce9f5b519e6e96b8
 <<<<<<< HEAD
 
 7. ¿Que es CSS?:
