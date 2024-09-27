@@ -33,8 +33,7 @@ Son aquellos programas o aplicaciones que nos permiten manipular informaticament
 El HTML (HyperText Markup Language), este estandard sirve de referencia del software qeu interactúa con la elebaración de __páginas web__ en sus diferentes versiones.
 Define la estructura básica y 1 código, para la presentación de contenido de una página web.
 
-[Esquema HTML](https://github.com/Disco Local/repositorios-GitHub/2425-smx2_a0-repoejemplo/EVALUACI-N-INICIAL/Imagen2.jpg)
-<<<<<<< HEAD
+
 
 7. ¿Que es CSS?:
 
